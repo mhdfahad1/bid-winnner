@@ -1,0 +1,6 @@
+[submodule "bid-winner"]
+	path = bid-winner
+	url = https://github.com/mhdfahad1/bid-winner.git
+[submodule "bid-backend"]
+	path = bid-backend
+	url = https://github.com/mhdfahad1/bid-backend.git
